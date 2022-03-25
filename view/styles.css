@@ -1,0 +1,43 @@
+#container1{
+    padding: 5px 10px;
+    background:rgb(194, 195, 197);
+    margin: 20px;
+}
+
+#container2{
+    background:rgb(182, 223, 203);
+    margin: 20px;
+    padding: 5px;
+}
+
+#container3{
+    background:rgb(255, 206, 206);
+    margin: 20px;
+    padding: 10px 10px;
+}
+
+#container4{
+    background:rgb(193, 189, 255);
+    margin: 20px;
+    padding: 10px 10px;
+}
+
+#container5{
+    background:rgb(193, 189, 255);
+    margin: 20px;
+    padding: 10px 10px;
+}
+
+#container6{
+    background:rgb(193, 189, 255);
+    margin: 20px;
+    padding: 10px 10px;
+/*     pointer-events: none;
+    opacity: 0.4; */
+}
+
+#container7{
+    background:rgb(193, 189, 255);
+    margin: 20px;
+    padding: 10px 10px;
+}
